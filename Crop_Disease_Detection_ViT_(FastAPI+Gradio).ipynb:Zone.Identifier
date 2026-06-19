@@ -1,3 +1,4 @@
 [ZoneTransfer]
 ZoneId=3
-HostUrl=about:internet
+ReferrerUrl=https://claude.ai/chat/6b07d94c-69b8-4dc6-901c-5fb563d0f904
+HostUrl=https://claude.ai/api/organizations/1872b727-750a-48f3-8c9c-db72feae91f0/conversations/6b07d94c-69b8-4dc6-901c-5fb563d0f904/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FCrop_Disease_Detection_ViT_FastAPI_Gradio.ipynb
