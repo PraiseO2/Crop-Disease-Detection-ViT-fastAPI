@@ -101,4 +101,4 @@ B.Agric (Hons.), Crop Production and Protection, Obafemi Awolowo University. Thi
 ---
 
 **Praise Omoolorun Adetifa**
-[GitHub](https://github.com/PraiseO2) · [LinkedIn](https://linkedin.com/in/praise-adetifa-3732161b2) · adetifapraisea1@gmail.com
+[LinkedIn](https://linkedin.com/in/praise-adetifa-3732161b2) 
